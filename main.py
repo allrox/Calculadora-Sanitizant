@@ -22,6 +22,6 @@ if area <= 27:
     print("-----------------------------------")
     print("Você recebeu um desconto de R$:", round((orcamentoCheio * desconto), 2))
 
-print("A área total de aplicação é: ", area, "m³\n", "e o seu orçamento é R$: ", round(orcamento, 2), ".", sep="")
+print("A área total de aplicação é: ", area, "m³", "e o seu orçamento é R$: ", round(orcamento, 2), ".", sep="")
 print("-----------------------------------")
-print("Não esqueça de preparar o ambiente para o tratamento,\no processo de oxi-sanitização não substitui a limpeza.\n")
+print("Não esqueça de preparar o ambiente para o tratamento, o processo de oxi-sanitização não substitui a limpeza.\n")
